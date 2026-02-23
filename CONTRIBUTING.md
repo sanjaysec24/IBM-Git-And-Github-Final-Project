@@ -8,6 +8,11 @@ Fork the repository.
 Create a new branch for your changes.
 Make your changes and commit them.
 Submit a pull request, describing your changes and why they should be merged.
+# Contributing
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+Please fork the repository and create a pull request for any changes.
 # Code Review
 All contributions will go through a code review process. Be prepared to address feedback and make necessary revisions.
 
