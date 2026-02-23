@@ -36,3 +36,11 @@ This Code of Conduct applies to all course-related activities, discussions, assi
 This Code of Conduct is adapted for the IBM Full Stack Software Developer Certificate Course and is inspired by the principles of respectful and inclusive learning.
 
 For any questions or concerns related to this code of conduct, please contact the course instructors or administrators.
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+1. Correction – A private warning.
+2. Warning – A formal warning with consequences for continued behavior.
+3. Temporary Ban – Temporary restriction from participation.
+4. Permanent Ban – Permanent removal from the community.
